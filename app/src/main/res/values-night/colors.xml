@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="background_dark">#1C1C1E</color>
+    <color name="background_light">#1C1C1E</color>
+    <color name="surface_dark">#2C2C2E</color>
+    <color name="surface_light">#2C2C2E</color>
+    <color name="text_primary">#F5F5F7</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="divider">#3A3A3C</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_primary">#FF6B6B</color>
+    <color name="accent_primary_light">#FF8585</color>
+    <color name="accent_secondary">#3D84F7</color>
+    <color name="accent_secondary_light">#5B96F8</color>
+
+    <!-- Common Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources> 
