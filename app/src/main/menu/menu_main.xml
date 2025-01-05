@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"
+        app:showAsAction="always"
+        android:iconTint="@color/text_primary">
+        <menu>
+            <item
+                android:id="@+id/action_theme"
+                android:icon="@drawable/ic_theme"
+                android:title="Toggle Theme"
+                android:iconTint="@color/text_primary"/>
+            <item
+                android:id="@+id/action_about"
+                android:icon="@drawable/ic_info"
+                android:title="About Us"
+                android:iconTint="@color/text_primary"/>
+            <item
+                android:id="@+id/action_exit"
+                android:icon="@drawable/ic_exit"
+                android:title="Exit"
+                android:iconTint="@color/text_primary"/>
+        </menu>
+    </item>
+</menu> 
