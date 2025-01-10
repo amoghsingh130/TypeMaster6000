@@ -1,28 +1,28 @@
 # TypeMaster6000
 
-Welcome to **TypeMaster6000** – your ultimate companion for mastering typing skills! Whether you're looking to boost your typing speed or improve accuracy, TypeMaster6000 offers an engaging and effective way to practice.
+Welcome to **TypeMaster6000** – your go-to app for improving your typing skills! Whether you want to increase your typing speed or enhance your accuracy, TypeMaster6000 provides an engaging and effective way to practice.
 
 ![Login Page](TypeMaster6000/LoginPage%20Screenshot.png)
 
-## 🎯 Features
+## Features
 
-- **✨ Typing Tests**: Challenge yourself with a variety of randomized text prompts.
-- **📊 Real-Time Feedback**: Instantly see your Words Per Minute (WPM) and accuracy as you type.
-- **📈 Progress Tracking**: Monitor your improvement over time with clear visual charts.
-- **🌗 Light and Dark Themes**: Customize the app's appearance to match your preference.
-- **🖥️ User-Friendly Interface**: Navigate effortlessly with a clean and intuitive design.
-- **⚙️ Settings Menu**: Easily toggle themes and access app information.
+- **Typing Tests**: Challenge yourself with various randomized text prompts.
+- **Real-Time Feedback**: See your Words Per Minute (WPM) and accuracy instantly as you type.
+- **Progress Tracking**: Keep track of your improvement over time with clear charts.
+- **Light and Dark Themes**: Choose the app appearance that suits you best.
+- **User-Friendly Interface**: Enjoy a clean and intuitive design that's easy to navigate.
+- **Settings Menu**: Easily switch themes and access app information.
 
-## 🛠 Technologies Used
+## Technologies Used
 
-- **Kotlin**: Built with Kotlin for robust Android development.
-- **Android SDK**: Utilizing the latest Android software development kit.
-- **Material Design**: Leveraging Google's design principles for a sleek UI.
-- **MPAndroidChart**: Integrating charts to visualize your typing performance.
+- **Kotlin**: The main programming language for Android development.
+- **Android SDK**: The software development kit for building Android applications.
+- **Material Design**: Google's design guidelines for creating visually appealing user interfaces.
+- **MPAndroidChart**: A library for displaying charts and graphs to visualize your performance data.
 
-## 🚀 Installation
+## Installation
 
-Get started with TypeMaster6000 on your local machine by following these simple steps:
+Get TypeMaster6000 up and running on your local machine by following these steps:
 
 1. **Clone the Repository**:
     ```bash
@@ -39,16 +39,16 @@ Get started with TypeMaster6000 on your local machine by following these simple 
 4. **Run the Application**:
     Connect your Android device or start an emulator, then click the "Run" button in Android Studio.
 
-## 📽️ Demo
+## Demo
 
-Check out the app in action!
+Check out the app in action below:
 
 <video width="600" controls>
   <source src="TypeMaster6000/Video%20Recording%20Test.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
-## 📝 Usage
+## Usage
 
 1. **Launch the App**: Open TypeMaster6000 on your device.
 2. **Start a Test**: Tap the "Start Typing" button to begin a typing challenge.
@@ -57,9 +57,8 @@ Check out the app in action!
 5. **Track Your Progress**: Check out your performance charts to see how you've improved over time.
 6. **Customize Settings**: Switch between light and dark themes or adjust other settings to your liking.
 
-## 📫 Contact
+## Contact
 
-Have questions or feedback? I'd love to hear from you!
+Have questions or feedback? Feel free to reach out!
 
 📧 [amogh.singh130@gmail.com](mailto:amogh.singh130@gmail.com)
-
