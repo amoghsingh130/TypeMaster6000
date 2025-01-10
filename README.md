@@ -2,7 +2,7 @@
 
 Welcome to **TypeMaster6000** – your go-to app for improving your typing skills! Whether you want to increase your typing speed or enhance your accuracy, TypeMaster6000 provides an engaging and effective way to practice.
 
-![Login Page](TypeMaster6000/LoginPage%20Screenshot.png)
+![Login Page](LoginPage%20Screenshot.png)
 
 ## Features
 
