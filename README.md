@@ -2,7 +2,7 @@
 
 Welcome to **TypeMaster6000** – your go-to app for improving your typing skills! Whether you want to increase your typing speed or enhance your accuracy, TypeMaster6000 provides an engaging and effective way to practice.
 
-![Login Page](LoginPage%20Screenshot.png)
+<img src="LoginPage Screenshot.png" alt="Login Page" width="400">
 
 ## Features
 
@@ -43,10 +43,7 @@ Get TypeMaster6000 up and running on your local machine by following these steps
 
 Check out the app in action below:
 
-<video width="600" controls>
-  <source src="Video%20Recording%20Test.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+![Demo Video](TypingMaster%20Recording.gif)
 
 ## Usage
 
