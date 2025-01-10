@@ -44,7 +44,7 @@ Get TypeMaster6000 up and running on your local machine by following these steps
 Check out the app in action below:
 
 <video width="600" controls>
-  <source src="TypeMaster6000/Video%20Recording%20Test.webm" type="video/webm">
+  <source src="Video%20Recording%20Test.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
